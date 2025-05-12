@@ -98,14 +98,6 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Analytics
 
 <div align="center">
-  <!-- GitHub Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=cuong1211&theme=algolia&no-frame=true&no-bg=true&margin-w=4" width="100%" alt="Trophy" />
-  
-  <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cuong1211&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="cuong1211" align = "center"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=cuong1211&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="cuong1211" align = "center"/>
-  </p>
-  
   <!-- GitHub Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cuong1211&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" width="95%" alt="Activity Graph" />
 </div>
