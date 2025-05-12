@@ -1,90 +1,139 @@
-# 👋 Hi, I'm Cuong!
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Enthusiastic+Learner;GIRC+Developer" alt="Typing SVG" />
-</div>
-
-## 🚀 About Me
-
-- 🔭 I'm currently working on **GIRC** project
-- 🌱 I'm constantly learning and exploring new technologies
-- 💬 Ask me about **Full Stack Development, Machine Learning, and Data Science**
-- ⚡ Motto: *"Learn something new every day"*
-
-## 🛠️ Languages and Tools
-
 <div align="center">
   
-### 💻 Programming Languages
+# ✨ Welcome to Cuong's Coding Universe ✨
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;AI%20%26%20Machine+Learning+Enthusiast;Creative+Problem+Solver;GIRC+Developer;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 
-### 🌐 Frontend
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-
-### 🗄️ Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🧠 Machine Learning & Data Science
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-### 🎨 Design
-
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+[![](https://visitcount.itsvg.in/api?id=cuong1211&icon=5&color=0&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
 
-## 📊 GitHub Stats
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🧑‍💻 About Me
+
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+
+- 🚀 I'm currently working on the **GIRC** project
+- 🌱 I'm passionate about exploring cutting-edge technologies
+- 💡 I love creating innovative solutions to complex problems
+- 🌍 Based in Vietnam, coding for the world
+- 💬 Ask me about **Full Stack, AI, Machine Learning, or Data Science**
+- 🎯 2025 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I can debug code faster than I can find my car keys
+- 📫 How to reach me: [thaicuong1211@gmail.com](mailto:your-email@example.com)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cuong1211&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cuong1211&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuong1211&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="58%" />
+
+### 🧰 Programming Languages
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,php,html,css,js" />
+  </a>
+</p>
+
+### 🔧 Frameworks & Libraries
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap,jquery,nodejs,express" />
+  </a>
+</p>
+
+### 🗄️ Databases & Cloud
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,firebase" />
+  </a>
+</p>
+
+### 🧠 AI & Data Science
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow" />
+  </a>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+### 🎨 Design & Tools
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ps,ae,figma,git,github,vscode" />
+  </a>
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
+</p>
+
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cuong1211&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=cuong1211&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cuong1211&theme=radical&hide_border=false" width="49%" alt="GitHub Streak" />
+  <br>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cuong1211&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" width="95%" alt="Activity Graph" />
+  <br>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuong1211&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="58%" alt="Top Languages" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🌐 Connect With Me
 
 <div align="center">
   
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/thaicuong1211)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cuong1211)
+<a href="https://facebook.com/thaicuong1211" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+</a>
+<a href="https://linkedin.com/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/cuong1211" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="mailto:your-email@example.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 </div>
 
-## 💭 Random Dev Quote
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💭 Developer Quote
 
 <div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎵 Currently Vibing To
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=cuong1211&icon=5&color=6" alt="Profile Views" />
-  <br>
-  <i>Thanks for visiting my profile!</i>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31s7xrc74n46sabxlq5luolbpcqu&cover_image=true&theme=default&show_offline=false&background_color=121212" />
 </div>
 
-<!-- Proudly created with ❤️ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;
+  <i>Thanks for visiting my GitHub profile! Let's connect and build something amazing together.</i>&nbsp;
+  <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />
+</div>
