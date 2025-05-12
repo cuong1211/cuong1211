@@ -75,6 +75,12 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=pytorch" />
   </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pandas" />
+  </a>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=numpy" />
+  </a>
 </p>
 
 ### 🎨 Design & Tools
@@ -83,7 +89,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ps,ae,figma,git,github,vscode" />
   </a>
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
 </p>
 
 
