@@ -75,12 +75,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=pytorch" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pandas" />
-  </a>
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=numpy" />
-  </a>
 </p>
 
 ### 🎨 Design & Tools
