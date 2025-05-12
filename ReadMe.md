@@ -80,17 +80,11 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cuong1211&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-  <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=cuong1211&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cuong1211&theme=radical&hide_border=false" width="49%" alt="GitHub Streak" />
-  <br>
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cuong1211&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" width="95%" alt="Activity Graph" />
   <br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuong1211&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="58%" alt="Top Languages" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -123,17 +117,3 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎵 Currently Vibing To
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31s7xrc74n46sabxlq5luolbpcqu&cover_image=true&theme=default&show_offline=false&background_color=121212" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-  <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;
-  <i>Thanks for visiting my GitHub profile! Let's connect and build something amazing together.</i>&nbsp;
-  <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />
-</div>
