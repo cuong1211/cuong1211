@@ -54,7 +54,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap,jquery,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=laravel,react,vue,tailwind,bootstrap,jquery,nodejs,express" />
   </a>
 </p>
 
@@ -72,9 +72,9 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tensorflow" />
   </a>
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch" />
+  </a>
 </p>
 
 ### 🎨 Design & Tools
