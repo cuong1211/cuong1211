@@ -102,7 +102,7 @@
 
 <div align="center">
   <a href="https://facebook.com/thaicuong1211" target="_blank">
-    <img src="https://cdn.creazilla.com/icons/7911986/facebook-icon-lg.png" alt="Facebook" />
+    <img src="https://cdn.creazilla.com/icons/7911986/facebook-icon-lg.png" alt="Facebook"  width: 400px/>
   </a>
   <a href="https://linkedin.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
